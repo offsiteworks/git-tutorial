@@ -34,6 +34,8 @@ Git入門、Gitとは何かがわかる様な内容が以下のURLに書かれ�
 
 `C:\work` でも結構です。
 
-https://github.com/offsiteworks/test
 
+右クリック → Git クローン(複製)...<br/>
 ![右クリック](images/folder-right-click.png)
+
+URLとして https://github.com/offsiteworks/test を入力してください。
