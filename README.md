@@ -6,14 +6,15 @@ Webサイトに同じ様なものがあるので
 以下のもので代用したいと思います。
 資料化は別途考えましょう。
 
-ツールとしては [GitHub for Windows](https://windows.github.com) は英語版しか無いので
+ツールとしては [GitHub for Windows](https://windows.github.com) は英語版しか無いので<br/>
 日本語版の言語設定のある TortoiseGit を使う事にします。
 
 Git入門、Gitとは何かがわかる様な内容が以下のURLに書かれています。
 
 ## [Git入門](http://www.backlog.jp/git-guide/)
 
-Gitとは、分散型バージョン管理システムの一つで、もともとLinuxのソースコードを効果的に管理するために開発されました。
+Gitとは、分散型バージョン管理システムの一つで、
+もともとLinuxのソースコードを効果的に管理するために開発されました。
 
 Gitのリポジトリは、リモートリポジトリとローカルリポジトリの2種類に分けられます。
 
@@ -61,12 +62,18 @@ Gitのリポジトリは、リモートリポジトリとローカルリポジ�
 
 ## [ファイルをコミットする](http://www.backlog.jp/git-guide/intro/intro2_4.html)
 
+ファイルを作成したり、更新したら、ローカルリポジトリへコミットします。
+
 [ファイルをコミットする - 画面例](http://www.backlog.jp/git-guide/intro/intro2_4.html)
 
 ## [リモートリポジトリへプッシュする](http://www.backlog.jp/git-guide/intro/intro3_1.html)
 
+ローカルリポジトリにコミットした後に、それをリモートリポジトリへ反映するためにプッシュします。
+
 [クローンしたリポジトリからプッシュする - 画面例](http://www.backlog.jp/git-guide/intro/intro4_2.html)
 
 ## [リモートリポジトリからプルする](http://www.backlog.jp/git-guide/intro/intro3_3.html)
+
+他の人が更新したリモートリポジトリの変更分を、ローカルリポジトリに反映・マージするためにプルします。
 
 [リモートリポジトリからプルする - 画面例](http://www.backlog.jp/git-guide/intro/intro4_5.html)
