@@ -42,6 +42,14 @@ Gitのリポジトリは、リモートリポジトリとローカルリポジ�
 ツールのインストと初期設定までをお願いします。
 リポジトリの作成は、後回しにします。
 
+以下のツールをダウンロードします。
+![msys-git-download](images/msys-git-download.png)
+
+以下のツール本体(英語版)と日本語ランゲージパックをダウンロードします。
+![tortoise-git-download](images/tortoise-git-download.png)
+
+[Git関連ツール(msysgitとTortoiseGit)のインストール - 画面例](http://www.backlog.jp/git-guide/intro/intro2_1.html)
+
 ## [練習用テストリポジトリのクローン](http://www.backlog.jp/git-guide/intro/intro3_2.html)
 
 [リモートリポジトリをクローンする - 画面例](http://www.backlog.jp/git-guide/intro/intro4_3.html)
